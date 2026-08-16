@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sinjeong-nightlife-note.nonhyeonnight.xyz/sitemap.xml
+Sitemap: https://sinjeong-nightlife-note.nonhyeonnight.xyz/sitemap-pages.xml
